@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-RuizheJiang
 
 Running at: <https://jpa03-ruizhejiang.dokku-01.cs.ucsb.edu/>
 
