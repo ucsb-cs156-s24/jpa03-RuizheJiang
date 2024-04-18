@@ -1,8 +1,5 @@
 # STARTER-jpa03
 
-```
-```
-
 Running at: <https://jpa03-ruizhejiang.dokku-01.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
